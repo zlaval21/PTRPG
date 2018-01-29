@@ -8,8 +8,7 @@ package pokerpg;
 import java.io.*;
 /**
  *
- * @author Steven R. Brandt
- * Modified by Zackery Lavalais
+ * @author Zackery Lavalais
  */
 public interface SaveI {
     MonsterI loadMonster(File f) throws IOException;
