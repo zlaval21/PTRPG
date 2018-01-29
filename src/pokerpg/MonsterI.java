@@ -8,8 +8,7 @@ package pokerpg;
 
 /**
  *
- * @author Steven R. Brandt
- * Modified by Zackery Lavalais
+ * @author Zackery Lavalais
  */
 
 public interface MonsterI {
