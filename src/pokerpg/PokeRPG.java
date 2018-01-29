@@ -3,9 +3,7 @@ package pokerpg;
 /**
  *
  * @author Zackery Lavalais
- * This program uses interfaces made by Steven R. Brandt and has been modified by Zackery Lavalais.
- * April 28th, 2015.
- * This program is a text based battle arena featuring monsters and elements from the game series Pokemon.
+ * This program is a text based battle arena featuring monsters and elements from the game series Pokemon. (WIP)
  */
 
 import java.util.*;
